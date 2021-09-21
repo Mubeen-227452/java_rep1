@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-17T15:32:05 IST" name="Suite" finished-at="2021-08-17T15:32:05 IST" duration-ms="53">
+    <groups>
+    </groups>
+    <test started-at="2021-08-17T15:32:05 IST" name="Test" finished-at="2021-08-17T15:32:05 IST" duration-ms="53">
+      <class name="june.Sa">
+        <test-method signature="logooout()[pri:0, instance:june.Sa@65f095f8]" started-at="2021-08-17T15:32:05 IST" name="logooout" finished-at="2021-08-17T15:32:05 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logooout -->
+      </class> <!-- june.Sa -->
+      <class name="may.Regression_Auto">
+        <test-method is-config="true" signature="openGmail()[pri:0, instance:may.Regression_Auto@120f102b]" started-at="2021-08-17T15:32:05 IST" name="openGmail" finished-at="2021-08-17T15:32:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGmail -->
+        <test-method signature="sendtest()[pri:1, instance:may.Regression_Auto@120f102b]" started-at="2021-08-17T15:32:05 IST" name="sendtest" finished-at="2021-08-17T15:32:05 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendtest -->
+        <test-method is-config="true" signature="closegmail()[pri:0, instance:may.Regression_Auto@120f102b]" started-at="2021-08-17T15:32:05 IST" name="closegmail" finished-at="2021-08-17T15:32:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closegmail -->
+        <test-method is-config="true" signature="openGmail()[pri:0, instance:may.Regression_Auto@120f102b]" started-at="2021-08-17T15:32:05 IST" name="openGmail" finished-at="2021-08-17T15:32:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGmail -->
+        <test-method signature="regtest()[pri:2, instance:may.Regression_Auto@120f102b]" started-at="2021-08-17T15:32:05 IST" name="regtest" finished-at="2021-08-17T15:32:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regtest -->
+        <test-method is-config="true" signature="closegmail()[pri:0, instance:may.Regression_Auto@120f102b]" started-at="2021-08-17T15:32:05 IST" name="closegmail" finished-at="2021-08-17T15:32:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closegmail -->
+        <test-method is-config="true" signature="openGmail()[pri:0, instance:may.Regression_Auto@120f102b]" started-at="2021-08-17T15:32:05 IST" name="openGmail" finished-at="2021-08-17T15:32:05 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGmail -->
+        <test-method signature="login()[pri:3, instance:may.Regression_Auto@120f102b]" started-at="2021-08-17T15:32:05 IST" name="login" finished-at="2021-08-17T15:32:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closegmail()[pri:0, instance:may.Regression_Auto@120f102b]" started-at="2021-08-17T15:32:05 IST" name="closegmail" finished-at="2021-08-17T15:32:05 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closegmail -->
+      </class> <!-- may.Regression_Auto -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
